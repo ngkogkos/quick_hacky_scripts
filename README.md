@@ -1,2 +1,2 @@
-# quick_hacky_scripts
-Repo holding quick hacky scripts probably/mainly written in Bash
+# Quick Hacky Scripts
+Repository holding quick hacky scripts probably/mainly written in Bash
